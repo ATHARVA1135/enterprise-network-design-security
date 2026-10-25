@@ -12,6 +12,8 @@ This project simulates an enterprise network using Cisco Packet Tracer. It demon
 - Verify connectivity and practise network troubleshooting.
 
 ## Network Topology
+![Enterprise Network Topology](%5BEnterprise%20Network%20Topology%5D.png)
+
 The network contains:
 - 1 Cisco 2911 router
 - 1 Cisco 2960 switch
